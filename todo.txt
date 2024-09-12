@@ -1,0 +1,6 @@
+first we create startproj todomain
+then sueruser for admin uname and pw
+next create todo app using start app (todos)
+then register that app in settings.py
+wroite code in models.py
+register model in admin .py
